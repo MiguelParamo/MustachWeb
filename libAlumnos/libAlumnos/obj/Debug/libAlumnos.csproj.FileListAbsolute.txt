@@ -1,0 +1,4 @@
+C:\Users\zague\OneDrive\Itesi\Clases\2017_01\Topicos Avanzados de Programacion\Unidad 2\PracticaComponentes\libAlumnos\libAlumnos\bin\Debug\libAlumnos.dll
+C:\Users\zague\OneDrive\Itesi\Clases\2017_01\Topicos Avanzados de Programacion\Unidad 2\PracticaComponentes\libAlumnos\libAlumnos\bin\Debug\libAlumnos.pdb
+C:\Users\zague\OneDrive\Itesi\Clases\2017_01\Topicos Avanzados de Programacion\Unidad 2\PracticaComponentes\libAlumnos\libAlumnos\obj\Debug\libAlumnos.dll
+C:\Users\zague\OneDrive\Itesi\Clases\2017_01\Topicos Avanzados de Programacion\Unidad 2\PracticaComponentes\libAlumnos\libAlumnos\obj\Debug\libAlumnos.pdb
