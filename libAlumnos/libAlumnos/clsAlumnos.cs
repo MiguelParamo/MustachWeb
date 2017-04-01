@@ -8,7 +8,7 @@ using System.IO;
 namespace libAlumnos
 {
     public class clsAlumnos : clsListaMaterias
-    {   //Propiedades
+    {   //Propiedades publicas
         public string strNumeroControl;
         public string strNombre;
         public string strCarrera;
